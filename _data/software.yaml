@@ -1,0 +1,13 @@
+- title: SIAMCAT
+  subtitle: R package
+  image: images/siamcat.png
+  link: https://github.com/zellerlab/siamcat
+  description: R package for comparative metagenomics
+  repo: zellerlab/siamcat
+
+- title: Microbiome workflows
+  subtitle: NextFlow workflows
+  image: images/
+  link: https://github.com/wirbel-lab/microbiome_workflows
+  description: NextFlow worksflows for microbiome data analysis
+  repo: wirbel-lab/microbiome_workflows

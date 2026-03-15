@@ -7,27 +7,27 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is located at the [Helmholtz Centre for Infection Research (HZI)](https://www.helmholtz-hzi.de/) 
+in Braunschweig, Germany. The HZI is part of the Helmholtz Association of research centers, the larget research organiziation in Germany, and we have close ties to the Technische Universität Braunschweig, the Medizinische Hochschule Hannover, and the Deutsche Sammlung von Mikroorganismen und Zellkulturen (DSMZ).
+
+Braunschweig, also known as the City of Lions, is the second-largest city in the state of Lower Saxony, Germany, and is located pretty centrally in Northern Germany with short travel times to Hamburg, Hannover, or Berlin. The city looks back on a long history starting in medieval times, which is beautifully reflected in today's cityscape.
+
+For inquiries about opportunities in the group, please feel free to contact me (Jakob) at my email address below. Please make sure to include in your email your CV and a cover letter, explaining why you would like to work in this lab. We do not encourage the use of Artificial Intelligence (AI) to assist with drafting any part of your cover letter as it does not help us to get to know YOU any better.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jakob.wirbel@helmholtz-hzi.de"
+  link="jakob.wirbel@helmholtz-hzi.de"
+  tooltip="Send an email to Jakob"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  text="Our Address on OpenStreetMaps"
+  tooltip="Our location on OpenStreetMaps for easy navigation"
+  link="https://www.openstreetmap.org/node/13362181842#map=16/52.21298/10.53599"
 %}
 
 {% include section.html %}
@@ -36,8 +36,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/lion.jpeg"
 %}
 
 {% endcapture %}
@@ -46,32 +45,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/braunschweig.jpg"
+  link="https://www.openstreetmap.org/relation/62531#map=7/51.248/11.129"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
+{%
+  include figure.html
+  image="images/fallback.jpg"
+%}
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+

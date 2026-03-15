@@ -1,23 +1,90 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1038/s41591-019-0406-6
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  description: "In this study, we asked if microbial biomarkers for colorectal cancer are generalizable 
+    across different datasets, populations, and geographies. We found a set of bacterial species that
+    were highly enriched in colorectal cancer metagenomes and could train an accurate and
+    specific machine learning model for the detection of colorectal cancer."
+  image: images/crc.png
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1038/s41591-019-0405-7
+  type: paper
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.7554/eLife.42693 
+  type: paper
+
+- id: doi:10.1038/s41586-021-03986-2
+  type: paper
+
+- id: doi:10.1186/s13059-021-02306-1
+  type: paper
+
+- id: doi:10.1136/gutjnl-2021-324755
+  type: paper
+
+- id: doi:10.1038/s41592-021-01343-9
+  type: paper
+
+- id: doi:10.1016/j.chom.2021.08.001 
+  type: paper
+
+- id: doi:10.1186/s40168-022-01410-z
+  type: paper
+
+- id: doi:10.1186/s13073-022-01030-0
+  type: paper
+
+- id: doi:10.1186/s12916-022-02550-7
+  type: paper
+
+- id: doi:10.1016/j.immuni.2022.03.008
+  type: paper
+
+- id: doi:10.1038/s41586-024-08485-8
+  type: paper
+
+- id: doi:10.1007/978-1-4939-7493-1_6
+  type: book
+
+- id: doi:10.1186/s40170-020-0208-9
+  type: paper
+
+- id: doi:10.1186/s13059-024-03390-9
+  type: paper
+
+- id: doi:10.1038/s41467-025-56829-3
+  type: paper
+
+- id: doi:10.1038/s41586-024-07970-4
+  type: paper
+
+- id: doi:10.7554/eLife.90111.1
+  type: paper
+
+- id: doi:10.1186/s13073-023-01180-9
+  type: paper
+
+- id: doi:10.1186/s13073-021-00925-8
+  type: paper
+
+- id: doi:10.1016/j.chom.2025.07.004
+  type: paper
+
+- id: doi:10.1038/s42255-025-01350-6
+  type: paper
+
+- id: doi:10.1016/j.crmeth.2025.101030
+  type: paper
+
+- id: doi:10.1038/s41586-025-09786-2
+  type: paper
+  description: "For this paper, we aimed to study prophages in the human gut microbiome using long-read sequencing. 
+    How stable are prophages in their bacterial hosts? How broad are prophage host ranges? What type of integration 
+    strategies do prophages use in the gut? Read more if you also want to learn about a new class of 'IScream phages'
+    that we discovered."
+  image: images/iscream.png
+
+- id: doi:10.64898/2026.02.19.706769 
+  type: preprint
+
+- id: doi:10.1016/j.xgen.2025.100988
+  type: paper
