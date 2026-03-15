@@ -1,6 +1,7 @@
 ---
 ---
 
+
 # Welcome to the Wirbel-Lab
 
 Welcome to the website of the Wirbel-Lab, also known as the **Precision Microbial Genomics (PMIG)** lab at the [Helmholtz Centre for Infection Research (HZI)](https://www.helmholtz-hzi.de/) in Braunschweig, Germany. We aim to better understand the dynamic evolution of microbial genome within host-associated communities, using technologies such as long-read sequencing and novel bioinformatic analysis frameworks.
