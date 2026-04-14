@@ -1,7 +1,7 @@
 ---
 name: Juby
 image: images/juby.jpg
-role: undergrad
+role: master
 links:
   email: juby.juby@helmholtz-hzi.de
   orcid: 0009-0008-3257-614X
