@@ -30,6 +30,10 @@ fluffy-symbiont:
   icon: fa-solid fa-cat
   description: Fluffy symbiont
 
+fluffy-symbionts:
+  icon: fa-solid fa-cat
+  description: Fluffy symbionts
+
 # general
 
 link:
