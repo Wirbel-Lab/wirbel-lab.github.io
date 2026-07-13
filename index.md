@@ -22,7 +22,7 @@ Science is always a team sport! We are a growing and diverse team of scientists 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
@@ -45,7 +45,7 @@ We are interested in microbial genomes and their evolution within host-associate
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpeg"
   link="research"
   title="Our Research"
   flip=true
