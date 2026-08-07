@@ -1,5 +1,725 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.19.706769
+  title: 'Differential effects of two common GVHD prophylaxis regimens on the gut
+    microbiome: Results from the BMT CTN 1801 study'
+  authors:
+  - Jakob Wirbel
+  - Wael Saber
+  - Michael J. Martens
+  - Jonathan U. Peled
+  - Tessa M. Andermann
+  - Teng Fei
+  - Erin F. Brooks
+  - Boryana Doyle
+  - Nathan B. Pincus
+  - Robert R. Jenq
+  - Merav Bar
+  - "Javier Bola\xF1os-Meade"
+  - Brandi Bratrude
+  - Saurabh Chhabra
+  - Sung Won Choi
+  - William Clark
+  - Suman Das
+  - Hany Elmariah
+  - Mahasweta Gooptu
+  - Shernan G. Holtan
+  - Richard J. Jones
+  - John E. Levine
+  - Brent R. Logan
+  - Monzr M. Al Malki
+  - Hemant S. Murthy
+  - Armin Rashidi
+  - Andrew R. Rezvani
+  - Marcie L. Riches
+  - Lyndsey Runaas
+  - Karamjeet Sandhu
+  - Ashley Spahn
+  - Anthony D. Sung
+  - Marcel R.M. van den Brink
+  - Mary M. Horowitz
+  - Mehdi Hamadani
+  - Leslie S. Kean
+  - Miguel-Angel Perales
+  - Ami S. Bhatt
+  publisher: openRxiv
+  date: '2026-02-20'
+  link: https://doi.org/hbqv96
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+- id: doi:10.1038/s41586-025-09786-2
+  title: Long-read metagenomics reveals phage dynamics in the human gut microbiome
+  authors:
+  - Jakob Wirbel
+  - Angela S. Hickey
+  - Daniel Chang
+  - Nora J. Enright
+  - Mai Dvorak
+  - Rachael B. Chanin
+  - Danica T. Schmidtke
+  - Ami S. Bhatt
+  publisher: Nature
+  date: '2025-11-26'
+  link: https://doi.org/hbqv95
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: For this paper, we aimed to study prophages in the human gut microbiome
+    using long-read sequencing. How stable are prophages in their bacterial hosts?
+    How broad are prophage host ranges? What type of integration strategies do prophages
+    use in the gut? Read more if you also want to learn about a new class of 'IScream
+    phages' that we discovered.
+  image: images/iscream.png
+- id: doi:10.1016/j.xgen.2025.100988
+  title: "A peptide display system identifies a potent mutant \u03B2-melanocyte-stimulating\
+    \ hormone agonist of melanocortin-4 receptor"
+  authors:
+  - Ann Lin
+  - Kaitlyn Spees
+  - Raeline Valbuena
+  - Jakob Wirbel
+  - Aravind Natarajan
+  - Nora Enright
+  - Ami S. Bhatt
+  - Michael C. Bassik
+  publisher: Cell Genomics
+  date: '2025-11-01'
+  link: https://doi.org/hbqv97
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s42255-025-01350-6
+  title: ATF6 activation alters colonic lipid metabolism causing tumour-associated
+    microbial adaptation
+  authors:
+  - Olivia I. Coleman
+  - Adam Sorbie
+  - Alessandra Riva
+  - Miriam von Stern
+  - Stephanie Kuhls
+  - Denise M. Selegato
+  - Luisa Siegert
+  - Isabel Keidel
+  - "Nikolai K\xF6hler"
+  - Jakob Wirbel
+  - Tim Kacprowski
+  - Andreas Dunkel
+  - Josch K. Pauling
+  - Johannes Plagge
+  - Diego Mediel-Cuadra
+  - Sophia J. Wagner
+  - Ines Chadly
+  - Sandra Bierwith
+  - Tingying Peng
+  - Thomas Metzler
+  - Xin Li
+  - "Mathias Heikenw\xE4lder"
+  - Clemens Schafmayer
+  - Sebastian Hinz
+  - "Christian R\xF6der"
+  - "Christoph R\xF6cken"
+  - Michael Zimmermann
+  - Philip Rosenstiel
+  - Katja Steiger
+  - Moritz Jesinghaus
+  - Gerhard Liebisch
+  - Josef Ecker
+  - Christina Schmidt
+  - Georg Zeller
+  - Klaus-Peter Janssen
+  - Dirk Haller
+  publisher: Nature Metabolism
+  date: '2025-09-01'
+  link: https://doi.org/g94n27
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.chom.2025.07.004
+  title: The prototypic crAssphage is a linear phage-plasmid
+  authors:
+  - Danica T. Schmidtke
+  - Angela S. Hickey
+  - Jakob Wirbel
+  - Jordan D. Lin
+  - Ivan Liachko
+  - Gavin Sherlock
+  - Ami S. Bhatt
+  publisher: Cell Host &amp; Microbe
+  date: '2025-08-01'
+  link: https://doi.org/hbqv93
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1101/2025.05.09.652943
+  title: Discovering Broader Host Ranges and an IS-bound Prophage Class Through Long-Read
+    Metagenomics
+  authors:
+  - Jakob Wirbel
+  - Angela S. Hickey
+  - Daniel Chang
+  - Nora J. Enright
+  - Mai Dvorak
+  - Rachael B. Chanin
+  - Danica T. Schmidtke
+  - Ami S. Bhatt
+  publisher: openRxiv
+  date: '2025-05-10'
+  link: https://doi.org/hcd2hn
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.crmeth.2025.101030
+  title: Accurate prediction of absolute prokaryotic abundance from DNA concentration
+  authors:
+  - Jakob Wirbel
+  - Tessa M. Andermann
+  - Erin F. Brooks
+  - Lanya Evans
+  - Adam Groth
+  - Mai Dvorak
+  - Meenakshi Chakraborty
+  - Bianca Palushaj
+  - Gabriella Z.M. Reynolds
+  - Imani E. Porter
+  - Monzr Al Malki
+  - Andrew Rezvani
+  - Mahasweta Gooptu
+  - Hany Elmariah
+  - Lyndsey Runaas
+  - Teng Fei
+  - Michael J. Martens
+  - "Javier Bola\xF1os-Meade"
+  - Mehdi Hamadani
+  - Shernan Holtan
+  - Rob Jenq
+  - Jonathan U. Peled
+  - Mary M. Horowitz
+  - Kathleen L. Poston
+  - Wael Saber
+  - Leslie S. Kean
+  - Miguel-Angel Perales
+  - Ami S. Bhatt
+  publisher: Cell Reports Methods
+  date: '2025-05-01'
+  link: https://doi.org/hbqv94
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s41586-024-08485-8
+  title: Expanding the human gut microbiome atlas of Africa
+  authors:
+  - Dylan G. Maghini
+  - Ovokeraye H. Oduaran
+  - Luicer A. Ingasia Olubayo
+  - Jane A. Cook
+  - Natalie Smyth
+  - Theophilous Mathema
+  - Carl W. Belger
+  - Godfred Agongo
+  - "Palwend\xE9 R. Boua"
+  - Solomon S. R. Choma
+  - "F. Xavier G\xF3mez-Oliv\xE9"
+  - Isaac Kisiangani
+  - Given R. Mashaba
+  - Lisa Micklesfield
+  - Shukri F. Mohamed
+  - Engelbert A. Nonterah
+  - Shane Norris
+  - Hermann Sorgho
+  - Stephen Tollman
+  - Floidy Wafawanaka
+  - Furahini Tluway
+  - "Mich\xE8le Ramsay"
+  - Jakob Wirbel
+  - Ami S. Bhatt
+  - Scott Hazelhurst
+  publisher: Nature
+  date: '2025-01-29'
+  link: https://doi.org/g83k9b
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s41586-024-07970-4
+  title: Intragenic DNA inversions expand bacterial coding capacity
+  authors:
+  - Rachael B. Chanin
+  - Patrick T. West
+  - Jakob Wirbel
+  - Matthew O. Gill
+  - Gabriella Z. M. Green
+  - Ryan M. Park
+  - Nora Enright
+  - Arjun M. Miklos
+  - Angela S. Hickey
+  - Erin F. Brooks
+  - Krystal K. Lum
+  - Ileana M. Cristea
+  - Ami S. Bhatt
+  publisher: Nature
+  date: '2024-09-25'
+  link: https://doi.org/g5782q
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/d41586-024-00077-w
+  title: The journey to understand previously unknown microbial genes
+  authors:
+  - Jakob Wirbel
+  - Ami S. Bhatt
+  - Alexander J. Probst
+  publisher: Nature
+  date: '2024-01-30'
+  link: https://doi.org/gtn5pb
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.12.05.569565
+  title: "Machine learning-based meta-analysis reveals gut microbiome alterations\
+    \ associated with Parkinson\u2019s disease"
+  authors:
+  - Stefano Romano
+  - Jakob Wirbel
+  - Rebecca Ansorge
+  - Christian Schudoma
+  - Quinten Raymond Ducarmon
+  - Arjan Narbad
+  - Georg Zeller
+  publisher: openRxiv
+  date: '2023-12-06'
+  link: https://doi.org/hcd2hp
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.03.565267
+  title: ATF6 activation alters colonic lipid metabolism causing tumor-associated
+    microbial adaptation
+  authors:
+  - Olivia I. Coleman
+  - Adam Sorbie
+  - Alessandra Riva
+  - Miriam von Stern
+  - Stephanie Kuhls
+  - Denise M. Selegato
+  - "Nikolai K\xF6hler"
+  - Jakob Wirbel
+  - Tim Kacprowski
+  - Andreas Dunkel
+  - Josh K. Pauling
+  - Johannes Plagge
+  - Diego Mediel-Cuadra
+  - Sophia Wagner
+  - Ines Chadly
+  - Sandra Bierwith
+  - Tingying Peng
+  - Thomas Metzler
+  - Clemens Schafmayer
+  - Sebastian Hinz
+  - "Christian R\xF6der"
+  - "Christoph R\xF6cken"
+  - Michael Zimmermann
+  - Philip Rosenstiel
+  - Katja Steiger
+  - Moritz Jesinghaus
+  - Gerhard Liebisch
+  - Josef Ecker
+  - Christina Schmidt
+  - Georg Zeller
+  - Klaus-Peter Janssen
+  - Dirk Haller
+  publisher: openRxiv
+  date: '2023-11-05'
+  link: https://doi.org/hcd2hq
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-022-01030-0
+  title: 'Calorie restriction improves metabolic state independently of gut microbiome
+    composition: a randomized dietary intervention trial'
+  authors:
+  - Solomon A. Sowah
+  - Alessio Milanese
+  - "Ruth Sch\xFCbel"
+  - Jakob Wirbel
+  - Ece Kartal
+  - Theron S. Johnson
+  - Frank Hirche
+  - "Mirja Grafetst\xE4tter"
+  - Tobias Nonnenmacher
+  - Romy Kirsten
+  - "Marina L\xF3pez-Nogueroles"
+  - "Agust\xEDn Lahoz"
+  - Kathrin V. Schwarz
+  - "J\xFCrgen G. Okun"
+  - Cornelia M. Ulrich
+  - "Johanna Nattenm\xFCller"
+  - Arnold von Eckardstein
+  - "Daniel M\xFCller"
+  - Gabriele I. Stangl
+  - Rudolf Kaaks
+  - "Tilman K\xFChn"
+  - Georg Zeller
+  publisher: Genome Medicine
+  date: '2022-03-14'
+  link: https://doi.org/hbqv9w
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1186/s12916-022-02550-7
+  title: "Depression and fatigue in active IBD from a microbiome perspective\u2014\
+    a Bayesian approach to faecal metagenomics"
+  authors:
+  - Anne Kerstin Thomann
+  - "Torsten W\xFCstenberg"
+  - Jakob Wirbel
+  - Laura-Louise Knoedler
+  - Philipp Arthur Thomann
+  - Georg Zeller
+  - Matthias Philip Ebert
+  - Stefanie Lis
+  - Wolfgang Reindl
+  publisher: BMC Medicine
+  date: '2022-10-17'
+  link: https://doi.org/g64ctm
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1136/gutjnl-2021-324755
+  title: A faecal microbiota signature with high specificity for pancreatic cancer
+  authors:
+  - Ece Kartal
+  - Thomas S B Schmidt
+  - Esther Molina-Montes
+  - "Sandra Rodr\xEDguez-Perales"
+  - Jakob Wirbel
+  - Oleksandr M Maistrenko
+  - Wasiu A Akanni
+  - Bilal Alashkar Alhamwe
+  - Renato J Alves
+  - Alfredo Carrato
+  - Hans-Peter Erasmus
+  - Lidia Estudillo
+  - Fabian Finkelmeier
+  - Anthony Fullam
+  - Anna M Glazek
+  - "Paulina G\xF3mez-Rubio"
+  - Rajna Hercog
+  - Ferris Jung
+  - Stefanie Kandels
+  - Stephan Kersting
+  - Melanie Langheinrich
+  - "Mirari M\xE1rquez"
+  - Xavier Molero
+  - Askarbek Orakov
+  - Thea Van Rossum
+  - Raul Torres-Ruiz
+  - Anja Telzerow
+  - Konrad Zych
+  - Vladimir Benes
+  - Georg Zeller
+  - Jonel Trebicka
+  - Francisco X Real
+  - Nuria Malats
+  - Peer Bork
+  publisher: Gut
+  date: '2022-03-08'
+  link: https://doi.org/gqm87x
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1101/2022.05.09.491139
+  title: A realistic benchmark for the identification of differentially abundant taxa
+    in (confounded) human microbiome studies
+  authors:
+  - Jakob Wirbel
+  - Morgan Essex
+  - Sofia Kirke Forslund
+  - Georg Zeller
+  publisher: openRxiv
+  date: '2022-05-10'
+  link: https://doi.org/gsz99c
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2022.03.008
+  title: Microbiota-dependent activation of the myeloid calcineurin-NFAT pathway inhibits
+    B7H3- and B7H4-dependent anti-tumor immunity in colorectal cancer
+  authors:
+  - Kenneth Peuker
+  - Anne Strigli
+  - Daniele V.F. Tauriello
+  - Alexander Hendricks
+  - "Witigo von Sch\xF6nfels"
+  - Greta Burmeister
+  - Mario Brosch
+  - Alexander Herrmann
+  - "Sandra Kr\xFCger"
+  - Jessica Nitsche
+  - "Lea Ju\u017Eni\u0107"
+  - Marc Marius Geissler
+  - Andreas Hiergeist
+  - "Andr\xE9 Gessner"
+  - Jakob Wirbel
+  - Ruby Priyadarshini Ponnudurai
+  - Antje Tunger
+  - Rebekka Wehner
+  - Daniel E. Stange
+  - "J\xFCrgen Weitz"
+  - Daniela E. Aust
+  - Gustavo B. Baretton
+  - Marc Schmitz
+  - "Christoph R\xF6cken"
+  - Jochen Hampe
+  - Sebastian Hinz
+  - Georg Zeller
+  - Triantafyllos Chavakis
+  - Clemens Schafmayer
+  - Eduard Batlle
+  - Sebastian Zeissig
+  publisher: Immunity
+  date: '2022-04-01'
+  link: https://doi.org/gpwf6n
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1101/2022.02.16.480740
+  title: "<i>C. difficile</i>\n                  may be overdiagnosed in adults and\
+    \ is a prevalent commensal in infants"
+  authors:
+  - Pamela Ferretti
+  - Jakob Wirbel
+  - Oleksandr M Maistrenko
+  - Thea Van Rossum
+  - Renato Alves
+  - Anthony Fullam
+  - Wasiu Akanni
+  - Christian Schudoma
+  - Anna Schwarz
+  - Roman Thielemann
+  - Leonie Thomas
+  - Stefanie Kandels
+  - Rajna Hercog
+  - Anja Telzerow
+  - Ivica Letunic
+  - Michael Kuhn
+  - Georg Zeller
+  - Thomas SB Schmidt
+  - Peer Bork
+  publisher: openRxiv
+  date: '2022-02-18'
+  link: https://doi.org/hcd2h3
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-021-01343-9
+  title: Identifying temporal and spatial patterns of variation from multimodal data
+    using MEFISTO
+  authors:
+  - Britta Velten
+  - Jana M. Braunger
+  - Ricard Argelaguet
+  - Damien Arnol
+  - Jakob Wirbel
+  - Danila Bredikhin
+  - Georg Zeller
+  - Oliver Stegle
+  publisher: Nature Methods
+  date: '2022-01-13'
+  link: https://doi.org/gn47fg
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1186/s13059-021-02306-1
+  title: Microbiome meta-analysis and cross-disease comparison enabled by the SIAMCAT
+    machine learning toolbox
+  authors:
+  - Jakob Wirbel
+  - Konrad Zych
+  - Morgan Essex
+  - Nicolai Karcher
+  - Ece Kartal
+  - Guillem Salazar
+  - Peer Bork
+  - Shinichi Sunagawa
+  - Georg Zeller
+  publisher: Genome Biology
+  date: '2021-03-30'
+  link: https://doi.org/gjt6fq
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1038/s41586-021-03986-2
+  title: Unravelling the collateral damage of antibiotics on gut bacteria
+  authors:
+  - Lisa Maier
+  - Camille V. Goemans
+  - Jakob Wirbel
+  - Michael Kuhn
+  - Claudia Eberl
+  - Mihaela Pruteanu
+  - "Patrick M\xFCller"
+  - Sarela Garcia-Santamarina
+  - Elisabetta Cacace
+  - Boyao Zhang
+  - Cordula Gekeler
+  - Tisya Banerjee
+  - Exene Erin Anderson
+  - Alessio Milanese
+  - "Ulrike L\xF6ber"
+  - Sofia K. Forslund
+  - Kiran Raosaheb Patil
+  - Michael Zimmermann
+  - "B\xE4rbel Stecher"
+  - Georg Zeller
+  - Peer Bork
+  - Athanasios Typas
+  publisher: Nature
+  date: '2021-10-13'
+  link: https://doi.org/gm4txr
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1016/j.chom.2021.08.001
+  title: Commensal Clostridiales strains mediate effective anti-cancer immune response
+    against solid tumors
+  authors:
+  - Ana Montalban-Arques
+  - Egle Katkeviciute
+  - Philipp Busenhart
+  - Anna Bircher
+  - Jakob Wirbel
+  - Georg Zeller
+  - Yasser Morsy
+  - Lubor Borsig
+  - Jesus F. Glaus Garzon
+  - "Anne M\xFCller"
+  - Isabelle C. Arnold
+  - Mariela Artola-Boran
+  - Michael Krauthammer
+  - Anna Sintsova
+  - Nicola Zamboni
+  - Gabriel E. Leventhal
+  - Laura Berchtold
+  - Tomas de Wouters
+  - Gerhard Rogler
+  - Katharina Baebler
+  - Marlene Schwarzfischer
+  - Larissa Hering
+  - Ivan Olivares-Rivas
+  - Kirstin Atrott
+  - Claudia Gottier
+  - Silvia Lang
+  - Onur Boyman
+  - Ralph Fritsch
+  - Markus G. Manz
+  - Marianne R. Spalinger
+  - Michael Scharl
+  publisher: Cell Host &amp; Microbe
+  date: '2021-10-01'
+  link: https://doi.org/gmqmxt
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1186/s13073-021-00925-8
+  title: Prediction of combination therapies based on topological modeling of the
+    immune signaling network in multiple sclerosis
+  authors:
+  - Marti Bernardo-Faura
+  - Melanie Rinas
+  - Jakob Wirbel
+  - Inna Pertsovskaya
+  - Vicky Pliaka
+  - Dimitris E. Messinis
+  - Gemma Vila
+  - Theodore Sakellaropoulos
+  - Wolfgang Faigle
+  - Pernilla Stridh
+  - Janina R. Behrens
+  - Tomas Olsson
+  - Roland Martin
+  - Friedemann Paul
+  - Leonidas G. Alexopoulos
+  - Pablo Villoslada
+  - Julio Saez-Rodriguez
+  publisher: Genome Medicine
+  date: '2021-07-16'
+  link: https://doi.org/gmjb9c
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1101/2021.04.20.440600
+  title: Reference genome-independent taxonomic profiling of microbiomes with mOTUs3
+  authors:
+  - Hans-Joachim Ruscheweyh
+  - Alessio Milanese
+  - Lucas Paoli
+  - Nicolai Karcher
+  - Quentin Clayssen
+  - Marisa Isabell Metzger
+  - Jakob Wirbel
+  - Peer Bork
+  - Daniel R. Mende
+  - Georg Zeller
+  - Shinichi Sunagawa
+  publisher: openRxiv
+  date: '2021-04-21'
+  link: https://doi.org/gsx3kg
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40170-020-0208-9
+  title: Metabolic models predict bacterial passengers in colorectal cancer
+  authors:
+  - Daniel R. Garza
+  - Rahwa Taddese
+  - Jakob Wirbel
+  - Georg Zeller
+  - Annemarie Boleij
+  - Martijn A. Huynen
+  - Bas E. Dutilh
+  publisher: Cancer &amp; Metabolism
+  date: '2020-02-10'
+  link: https://doi.org/gjrjn6
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+- id: doi:10.1101/2020.02.06.931808
+  title: Microbiome meta-analysis and cross-disease comparison enabled by the SIAMCAT
+    machine-learning toolbox
+  authors:
+  - Jakob Wirbel
+  - Konrad Zych
+  - Morgan Essex
+  - Nicolai Karcher
+  - Ece Kartal
+  - Guillem Salazar
+  - Peer Bork
+  - Shinichi Sunagawa
+  - Georg Zeller
+  publisher: openRxiv
+  date: '2020-02-06'
+  link: https://doi.org/gjhnvw
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41591-019-0406-6
   title: Meta-analysis of fecal metagenomes reveals global microbial signatures that
     are specific for colorectal cancer
@@ -42,6 +762,9 @@
   publisher: Nature Medicine
   date: '2019-04-01'
   link: https://doi.org/gfxrv9
+  orcid: 0000-0002-4073-3562
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   description: In this study, we asked if microbial biomarkers for colorectal cancer
     are generalizable across different datasets, populations, and geographies. We
@@ -49,8 +772,6 @@
     metagenomes and could train an accurate and specific machine learning model for
     the detection of colorectal cancer.
   image: images/crc.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41591-019-0405-7
   title: Metagenomic analysis of colorectal cancer datasets identifies cross-cohort
     microbial diagnostic signatures and a link with choline degradation
@@ -97,9 +818,10 @@
   publisher: Nature Medicine
   date: '2019-04-01'
   link: https://doi.org/gfxrv6
-  type: paper
+  orcid: 0000-0002-4073-3562
   plugin: sources.py
   file: sources.yaml
+  type: paper
 - id: doi:10.7554/eLife.42693
   title: Extensive transmission of microbes along the gastrointestinal tract
   authors:
@@ -123,161 +845,77 @@
   publisher: eLife
   date: '2019-02-12'
   link: https://doi.org/gjrwwx
-  type: paper
+  orcid: 0000-0002-4073-3562
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41586-021-03986-2
-  title: Unravelling the collateral damage of antibiotics on gut bacteria
+  type: paper
+- id: doi:10.1101/541458
+  title: Prediction of combination therapies based on topological modeling of the
+    immune signaling network in Multiple Sclerosis
   authors:
-  - Lisa Maier
-  - Camille V. Goemans
+  - Marti Bernardo-Faura
+  - Melanie Rinas
   - Jakob Wirbel
-  - Michael Kuhn
-  - Claudia Eberl
-  - Mihaela Pruteanu
-  - "Patrick M\xFCller"
-  - Sarela Garcia-Santamarina
-  - Elisabetta Cacace
-  - Boyao Zhang
-  - Cordula Gekeler
-  - Tisya Banerjee
-  - Exene Erin Anderson
-  - Alessio Milanese
-  - "Ulrike L\xF6ber"
-  - Sofia K. Forslund
-  - Kiran Raosaheb Patil
-  - Michael Zimmermann
-  - "B\xE4rbel Stecher"
-  - Georg Zeller
-  - Peer Bork
-  - Athanasios Typas
-  publisher: Nature
-  date: '2021-10-13'
-  link: https://doi.org/gm4txr
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13059-021-02306-1
-  title: Microbiome meta-analysis and cross-disease comparison enabled by the SIAMCAT
-    machine learning toolbox
+  - Inna Pertsovskaya
+  - Vicky Pliaka
+  - Dimitris E Messinis
+  - Gemma Vila
+  - Theodore Sakellaropoulos
+  - Wolfgang Faigle
+  - Pernilla Stridh
+  - Janina R. Behrens
+  - Tomas Olsson
+  - Roland Martin
+  - Friedemann Paul
+  - Leonidas G Alexopoulos
+  - Pablo Villoslada
+  - Julio Saez-Rodriguez
+  publisher: openRxiv
+  date: '2019-02-05'
+  link: https://doi.org/gkt2bg
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-4939-7493-1_6
+  title: Phosphoproteomics-Based Profiling of Kinase Activities in Cancer Cells
   authors:
   - Jakob Wirbel
-  - Konrad Zych
-  - Morgan Essex
-  - Nicolai Karcher
-  - Ece Kartal
-  - Guillem Salazar
-  - Peer Bork
-  - Shinichi Sunagawa
-  - Georg Zeller
-  publisher: Genome Biology
-  date: '2021-03-30'
-  link: https://doi.org/gjt6fq
-  type: paper
+  - Pedro Cutillas
+  - Julio Saez-Rodriguez
+  publisher: Methods in Molecular Biology
+  date: '2018-01-01'
+  link: https://doi.org/hbqv9x
+  orcid: 0000-0002-4073-3562
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1136/gutjnl-2021-324755
-  title: A faecal microbiota signature with high specificity for pancreatic cancer
+  type: book
+- id: doi:10.1101/066019
+  title: Phosphoproteomics-based Profiling of Kinase Activities in Cancer Cells
   authors:
-  - Ece Kartal
-  - Thomas S B Schmidt
-  - Esther Molina-Montes
-  - "Sandra Rodr\xEDguez-Perales"
   - Jakob Wirbel
-  - Oleksandr M Maistrenko
-  - Wasiu A Akanni
-  - Bilal Alashkar Alhamwe
-  - Renato J Alves
-  - Alfredo Carrato
-  - Hans-Peter Erasmus
-  - Lidia Estudillo
-  - Fabian Finkelmeier
-  - Anthony Fullam
-  - Anna M Glazek
-  - "Paulina G\xF3mez-Rubio"
-  - Rajna Hercog
-  - Ferris Jung
-  - Stefanie Kandels
-  - Stephan Kersting
-  - Melanie Langheinrich
-  - "Mirari M\xE1rquez"
-  - Xavier Molero
-  - Askarbek Orakov
-  - Thea Van Rossum
-  - Raul Torres-Ruiz
-  - Anja Telzerow
-  - Konrad Zych
-  - Vladimir Benes
-  - Georg Zeller
-  - Jonel Trebicka
-  - Francisco X Real
-  - Nuria Malats
-  - Peer Bork
-  publisher: Gut
-  date: '2022-03-08'
-  link: https://doi.org/gqm87x
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41592-021-01343-9
-  title: Identifying temporal and spatial patterns of variation from multimodal data
-    using MEFISTO
+  - Pedro Cutillas
+  - Julio Saez-Rodriguez
+  publisher: openRxiv
+  date: '2016-07-26'
+  link: https://doi.org/gkt24r
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0140805
+  title: Red Blood Cells Preconditioned with Hemin Are Less Permissive to Plasmodium
+    Invasion In Vivo and In Vitro
   authors:
-  - Britta Velten
-  - Jana M. Braunger
-  - Ricard Argelaguet
-  - Damien Arnol
+  - "V\xE9ronique Gaudreault"
   - Jakob Wirbel
-  - Danila Bredikhin
-  - Georg Zeller
-  - Oliver Stegle
-  publisher: Nature Methods
-  date: '2022-01-13'
-  link: https://doi.org/gn47fg
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2021.08.001
-  title: Commensal Clostridiales strains mediate effective anti-cancer immune response
-    against solid tumors
-  authors:
-  - Ana Montalban-Arques
-  - Egle Katkeviciute
-  - Philipp Busenhart
-  - Anna Bircher
-  - Jakob Wirbel
-  - Georg Zeller
-  - Yasser Morsy
-  - Lubor Borsig
-  - Jesus F. Glaus Garzon
-  - "Anne M\xFCller"
-  - Isabelle C. Arnold
-  - Mariela Artola-Boran
-  - Michael Krauthammer
-  - Anna Sintsova
-  - Nicola Zamboni
-  - Gabriel E. Leventhal
-  - Laura Berchtold
-  - Tomas de Wouters
-  - Gerhard Rogler
-  - Katharina Baebler
-  - Marlene Schwarzfischer
-  - Larissa Hering
-  - Ivan Olivares-Rivas
-  - Kirstin Atrott
-  - Claudia Gottier
-  - Silvia Lang
-  - Onur Boyman
-  - Ralph Fritsch
-  - Markus G. Manz
-  - Marianne R. Spalinger
-  - Michael Scharl
-  publisher: Cell Host &amp; Microbe
-  date: '2021-10-01'
-  link: https://doi.org/gmqmxt
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
+  - Armando Jardim
+  - Petra Rohrbach
+  - Tatiana Scorza
+  publisher: PLOS ONE
+  date: '2015-10-14'
+  link: https://doi.org/hcd2h4
+  orcid: 0000-0002-4073-3562
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s40168-022-01410-z
   title: Cultivation-independent genomes greatly expand taxonomic-profiling capabilities
     of mOTUs across various environments
@@ -296,160 +934,6 @@
   publisher: Microbiome
   date: '2022-12-05'
   link: https://doi.org/hbqv9v
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13073-022-01030-0
-  title: 'Calorie restriction improves metabolic state independently of gut microbiome
-    composition: a randomized dietary intervention trial'
-  authors:
-  - Solomon A. Sowah
-  - Alessio Milanese
-  - "Ruth Sch\xFCbel"
-  - Jakob Wirbel
-  - Ece Kartal
-  - Theron S. Johnson
-  - Frank Hirche
-  - "Mirja Grafetst\xE4tter"
-  - Tobias Nonnenmacher
-  - Romy Kirsten
-  - "Marina L\xF3pez-Nogueroles"
-  - "Agust\xEDn Lahoz"
-  - Kathrin V. Schwarz
-  - "J\xFCrgen G. Okun"
-  - Cornelia M. Ulrich
-  - "Johanna Nattenm\xFCller"
-  - Arnold von Eckardstein
-  - "Daniel M\xFCller"
-  - Gabriele I. Stangl
-  - Rudolf Kaaks
-  - "Tilman K\xFChn"
-  - Georg Zeller
-  publisher: Genome Medicine
-  date: '2022-03-14'
-  link: https://doi.org/hbqv9w
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s12916-022-02550-7
-  title: "Depression and fatigue in active IBD from a microbiome perspective\u2014\
-    a Bayesian approach to faecal metagenomics"
-  authors:
-  - Anne Kerstin Thomann
-  - "Torsten W\xFCstenberg"
-  - Jakob Wirbel
-  - Laura-Louise Knoedler
-  - Philipp Arthur Thomann
-  - Georg Zeller
-  - Matthias Philip Ebert
-  - Stefanie Lis
-  - Wolfgang Reindl
-  publisher: BMC Medicine
-  date: '2022-10-17'
-  link: https://doi.org/g64ctm
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.immuni.2022.03.008
-  title: Microbiota-dependent activation of the myeloid calcineurin-NFAT pathway inhibits
-    B7H3- and B7H4-dependent anti-tumor immunity in colorectal cancer
-  authors:
-  - Kenneth Peuker
-  - Anne Strigli
-  - Daniele V.F. Tauriello
-  - Alexander Hendricks
-  - "Witigo von Sch\xF6nfels"
-  - Greta Burmeister
-  - Mario Brosch
-  - Alexander Herrmann
-  - "Sandra Kr\xFCger"
-  - Jessica Nitsche
-  - "Lea Ju\u017Eni\u0107"
-  - Marc Marius Geissler
-  - Andreas Hiergeist
-  - "Andr\xE9 Gessner"
-  - Jakob Wirbel
-  - Ruby Priyadarshini Ponnudurai
-  - Antje Tunger
-  - Rebekka Wehner
-  - Daniel E. Stange
-  - "J\xFCrgen Weitz"
-  - Daniela E. Aust
-  - Gustavo B. Baretton
-  - Marc Schmitz
-  - "Christoph R\xF6cken"
-  - Jochen Hampe
-  - Sebastian Hinz
-  - Georg Zeller
-  - Triantafyllos Chavakis
-  - Clemens Schafmayer
-  - Eduard Batlle
-  - Sebastian Zeissig
-  publisher: Immunity
-  date: '2022-04-01'
-  link: https://doi.org/gpwf6n
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41586-024-08485-8
-  title: Expanding the human gut microbiome atlas of Africa
-  authors:
-  - Dylan G. Maghini
-  - Ovokeraye H. Oduaran
-  - Luicer A. Ingasia Olubayo
-  - Jane A. Cook
-  - Natalie Smyth
-  - Theophilous Mathema
-  - Carl W. Belger
-  - Godfred Agongo
-  - "Palwend\xE9 R. Boua"
-  - Solomon S. R. Choma
-  - "F. Xavier G\xF3mez-Oliv\xE9"
-  - Isaac Kisiangani
-  - Given R. Mashaba
-  - Lisa Micklesfield
-  - Shukri F. Mohamed
-  - Engelbert A. Nonterah
-  - Shane Norris
-  - Hermann Sorgho
-  - Stephen Tollman
-  - Floidy Wafawanaka
-  - Furahini Tluway
-  - "Mich\xE8le Ramsay"
-  - Jakob Wirbel
-  - Ami S. Bhatt
-  - Scott Hazelhurst
-  publisher: Nature
-  date: '2025-01-29'
-  link: https://doi.org/g83k9b
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-1-4939-7493-1_6
-  title: Phosphoproteomics-Based Profiling of Kinase Activities in Cancer Cells
-  authors:
-  - Jakob Wirbel
-  - Pedro Cutillas
-  - Julio Saez-Rodriguez
-  publisher: Methods in Molecular Biology
-  date: '2018-01-01'
-  link: https://doi.org/hbqv9x
-  type: book
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s40170-020-0208-9
-  title: Metabolic models predict bacterial passengers in colorectal cancer
-  authors:
-  - Daniel R. Garza
-  - Rahwa Taddese
-  - Jakob Wirbel
-  - Georg Zeller
-  - Annemarie Boleij
-  - Martijn A. Huynen
-  - Bas E. Dutilh
-  publisher: Cancer &amp; Metabolism
-  date: '2020-02-10'
-  link: https://doi.org/gjrjn6
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -481,28 +965,6 @@
   publisher: Nature Communications
   date: '2025-05-07'
   link: https://doi.org/g9p833
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41586-024-07970-4
-  title: Intragenic DNA inversions expand bacterial coding capacity
-  authors:
-  - Rachael B. Chanin
-  - Patrick T. West
-  - Jakob Wirbel
-  - Matthew O. Gill
-  - Gabriella Z. M. Green
-  - Ryan M. Park
-  - Nora Enright
-  - Arjun M. Miklos
-  - Angela S. Hickey
-  - Erin F. Brooks
-  - Krystal K. Lum
-  - Ileana M. Cristea
-  - Ami S. Bhatt
-  publisher: Nature
-  date: '2024-09-25'
-  link: https://doi.org/g5782q
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -557,221 +1019,6 @@
   publisher: Genome Medicine
   date: '2023-05-02'
   link: https://doi.org/g85qv4
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s13073-021-00925-8
-  title: Prediction of combination therapies based on topological modeling of the
-    immune signaling network in multiple sclerosis
-  authors:
-  - Marti Bernardo-Faura
-  - Melanie Rinas
-  - Jakob Wirbel
-  - Inna Pertsovskaya
-  - Vicky Pliaka
-  - Dimitris E. Messinis
-  - Gemma Vila
-  - Theodore Sakellaropoulos
-  - Wolfgang Faigle
-  - Pernilla Stridh
-  - Janina R. Behrens
-  - Tomas Olsson
-  - Roland Martin
-  - Friedemann Paul
-  - Leonidas G. Alexopoulos
-  - Pablo Villoslada
-  - Julio Saez-Rodriguez
-  publisher: Genome Medicine
-  date: '2021-07-16'
-  link: https://doi.org/gmjb9c
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2025.07.004
-  title: The prototypic crAssphage is a linear phage-plasmid
-  authors:
-  - Danica T. Schmidtke
-  - Angela S. Hickey
-  - Jakob Wirbel
-  - Jordan D. Lin
-  - Ivan Liachko
-  - Gavin Sherlock
-  - Ami S. Bhatt
-  publisher: Cell Host &amp; Microbe
-  date: '2025-08-01'
-  link: https://doi.org/hbqv93
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s42255-025-01350-6
-  title: ATF6 activation alters colonic lipid metabolism causing tumour-associated
-    microbial adaptation
-  authors:
-  - Olivia I. Coleman
-  - Adam Sorbie
-  - Alessandra Riva
-  - Miriam von Stern
-  - Stephanie Kuhls
-  - Denise M. Selegato
-  - Luisa Siegert
-  - Isabel Keidel
-  - "Nikolai K\xF6hler"
-  - Jakob Wirbel
-  - Tim Kacprowski
-  - Andreas Dunkel
-  - Josch K. Pauling
-  - Johannes Plagge
-  - Diego Mediel-Cuadra
-  - Sophia J. Wagner
-  - Ines Chadly
-  - Sandra Bierwith
-  - Tingying Peng
-  - Thomas Metzler
-  - Xin Li
-  - "Mathias Heikenw\xE4lder"
-  - Clemens Schafmayer
-  - Sebastian Hinz
-  - "Christian R\xF6der"
-  - "Christoph R\xF6cken"
-  - Michael Zimmermann
-  - Philip Rosenstiel
-  - Katja Steiger
-  - Moritz Jesinghaus
-  - Gerhard Liebisch
-  - Josef Ecker
-  - Christina Schmidt
-  - Georg Zeller
-  - Klaus-Peter Janssen
-  - Dirk Haller
-  publisher: Nature Metabolism
-  date: '2025-09-01'
-  link: https://doi.org/g94n27
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.crmeth.2025.101030
-  title: Accurate prediction of absolute prokaryotic abundance from DNA concentration
-  authors:
-  - Jakob Wirbel
-  - Tessa M. Andermann
-  - Erin F. Brooks
-  - Lanya Evans
-  - Adam Groth
-  - Mai Dvorak
-  - Meenakshi Chakraborty
-  - Bianca Palushaj
-  - Gabriella Z.M. Reynolds
-  - Imani E. Porter
-  - Monzr Al Malki
-  - Andrew Rezvani
-  - Mahasweta Gooptu
-  - Hany Elmariah
-  - Lyndsey Runaas
-  - Teng Fei
-  - Michael J. Martens
-  - "Javier Bola\xF1os-Meade"
-  - Mehdi Hamadani
-  - Shernan Holtan
-  - Rob Jenq
-  - Jonathan U. Peled
-  - Mary M. Horowitz
-  - Kathleen L. Poston
-  - Wael Saber
-  - Leslie S. Kean
-  - Miguel-Angel Perales
-  - Ami S. Bhatt
-  publisher: Cell Reports Methods
-  date: '2025-05-01'
-  link: https://doi.org/hbqv94
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41586-025-09786-2
-  title: Long-read metagenomics reveals phage dynamics in the human gut microbiome
-  authors:
-  - Jakob Wirbel
-  - Angela S. Hickey
-  - Daniel Chang
-  - Nora J. Enright
-  - Mai Dvorak
-  - Rachael B. Chanin
-  - Danica T. Schmidtke
-  - Ami S. Bhatt
-  publisher: Nature
-  date: '2025-11-26'
-  link: https://doi.org/hbqv95
-  type: paper
-  description: For this paper, we aimed to study prophages in the human gut microbiome
-    using long-read sequencing. How stable are prophages in their bacterial hosts?
-    How broad are prophage host ranges? What type of integration strategies do prophages
-    use in the gut? Read more if you also want to learn about a new class of 'IScream
-    phages' that we discovered.
-  image: images/iscream.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.64898/2026.02.19.706769
-  title: 'Differential effects of two common GVHD prophylaxis regimens on the gut
-    microbiome: Results from the BMT CTN 1801 study'
-  authors:
-  - Jakob Wirbel
-  - Wael Saber
-  - Michael J. Martens
-  - Jonathan U. Peled
-  - Tessa M. Andermann
-  - Teng Fei
-  - Erin F. Brooks
-  - Boryana Doyle
-  - Nathan B. Pincus
-  - Robert R. Jenq
-  - Merav Bar
-  - "Javier Bola\xF1os-Meade"
-  - Brandi Bratrude
-  - Saurabh Chhabra
-  - Sung Won Choi
-  - William Clark
-  - Suman Das
-  - Hany Elmariah
-  - Mahasweta Gooptu
-  - Shernan G. Holtan
-  - Richard J. Jones
-  - John E. Levine
-  - Brent R. Logan
-  - Monzr M. Al Malki
-  - Hemant S. Murthy
-  - Armin Rashidi
-  - Andrew R. Rezvani
-  - Marcie L. Riches
-  - Lyndsey Runaas
-  - Karamjeet Sandhu
-  - Ashley Spahn
-  - Anthony D. Sung
-  - Marcel R.M. van den Brink
-  - Mary M. Horowitz
-  - Mehdi Hamadani
-  - Leslie S. Kean
-  - Miguel-Angel Perales
-  - Ami S. Bhatt
-  publisher: openRxiv
-  date: '2026-02-20'
-  link: https://doi.org/hbqv96
-  type: preprint
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.xgen.2025.100988
-  title: "A peptide display system identifies a potent mutant \u03B2-melanocyte-stimulating\
-    \ hormone agonist of melanocortin-4 receptor"
-  authors:
-  - Ann Lin
-  - Kaitlyn Spees
-  - Raeline Valbuena
-  - Jakob Wirbel
-  - Aravind Natarajan
-  - Nora Enright
-  - Ami S. Bhatt
-  - Michael C. Bassik
-  publisher: Cell Genomics
-  date: '2025-11-01'
-  link: https://doi.org/hbqv97
   type: paper
   plugin: sources.py
   file: sources.yaml
