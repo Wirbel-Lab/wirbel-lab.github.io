@@ -1,6 +1,6 @@
 ---
 name: Marjan Niazpoor
-image: images/niazpoor_marjan.png
+image: images/niazpoor_marjan.jpg
 role: phd
 links:
   email: marjan.niazpoor@helmholtz-hzi.de
