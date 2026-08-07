@@ -1,6 +1,6 @@
 ---
 name: Pavit Klomkliev
-image: images/klomkliev_pavit.jgp
+image: images/klomkliev_pavit.jpg
 role: vphd
 links:
   email: pavit.klomkliev@helmholtz-hzi.de
