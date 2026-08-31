@@ -1,9 +1,9 @@
 ---
-name: Pavit Klomkliev
+name: Pavit Klomkliew
 image: images/klomkliev_pavit.jpg
 role: vphd
 links:
-  email: pavit.klomkliev@helmholtz-hzi.de
+  email: pavit.klomkliew@helmholtz-hzi.de
   google-scholar: https://scholar.google.com/citations?user=yhozRo4AAAAJ&hl=en⁠
   orcid: 0009-0008-8383-9536
 ---

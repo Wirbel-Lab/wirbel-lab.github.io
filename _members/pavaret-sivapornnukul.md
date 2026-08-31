@@ -5,7 +5,7 @@ role: phd
 links:
   email: pavaret.sivapornnukul@helmholtz-hzi.de
   github: Pavaret
-  google-scholar: https://scholar.google.com/citations?user=XYZ
+  google-scholar: https://scholar.google.com/citations?user=xpdGdpEAAAAJ
 ---
 
 Hi, I'm Pavaret (a.k.a. Leo) — a data scientist and bioinformatician turning tiny nucleotide letters into big ideas.
