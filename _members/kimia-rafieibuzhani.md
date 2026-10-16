@@ -2,6 +2,7 @@
 name: Kimia Rafieibuzhani
 image: images/rafieibuzhani_kimia.jpg
 role: master
+status: active
 links:
   email: kimia.rafieibuzhani@helmholtz-hzi.de
 ---

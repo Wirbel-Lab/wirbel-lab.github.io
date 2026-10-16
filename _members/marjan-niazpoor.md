@@ -2,6 +2,7 @@
 name: Marjan Niazpoor
 image: images/niazpoor_marjan.jpg
 role: phd
+status: active
 links:
   email: marjan.niazpoor@helmholtz-hzi.de
   orcid: 0009-0000-1455-6569

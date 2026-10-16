@@ -2,6 +2,7 @@
 name: Pavit Klomkliew
 image: images/klomkliev_pavit.jpg
 role: vphd
+status: active
 links:
   email: pavit.klomkliew@helmholtz-hzi.de
   google-scholar: https://scholar.google.com/citations?user=yhozRo4AAAAJ&hl=en⁠

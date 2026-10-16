@@ -2,6 +2,7 @@
 name: Pavaret Sivapornnukul
 image: images/sivapornnukul_pavaret.png
 role: phd
+status: active
 links:
   email: pavaret.sivapornnukul@helmholtz-hzi.de
   github: Pavaret
