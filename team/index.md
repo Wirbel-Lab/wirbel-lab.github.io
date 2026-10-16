@@ -19,13 +19,13 @@ nav:
 
 {% include section.html %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Furry Commensals
+## {% include icon.html icon="fa-solid fa-bugs" %}Furry Commensals
 
 {% include list.html data="members" component="portrait" filter="role == 'furry-commensal'"  %}
 {% include list.html data="members" component="portrait" filter="role == 'furry-commensals'"  %}
 
 {% include section.html %}
 
-## {% include icon.html icon="fa-solid fa-users" %}Alumni
+## {% include icon.html icon="fa-solid fa-person-hiking" %}Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'alumn'"  %}
