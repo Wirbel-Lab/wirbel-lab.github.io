@@ -11,11 +11,11 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" & "status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'phd'" & "status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'vphd'" & "status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'master'" & "status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" & "status != 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" filter="status != 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" filter="status != 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'vphd'" filter="status != 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'master'" filter="status != 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" filter="status != 'alumn'"  %}
 
 {% include section.html %}
 
