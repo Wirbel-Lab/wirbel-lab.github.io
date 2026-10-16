@@ -11,11 +11,11 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" filter="status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'phd'" filter="status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'vphd'" filter="status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'master'" filter="status != 'alumn'"  %}
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" filter="status != 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'"   %}
+{% include list.html data="members" component="portrait" filter="role == 'vphd'"   %}
+{% include list.html data="members" component="portrait" filter="role == 'master'"   %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'"  %}
 
 {% include section.html %}
 
@@ -28,4 +28,4 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include list.html data="members" component="portrait" filter="status == 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="role == 'alumn'"  %}
