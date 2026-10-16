@@ -28,4 +28,4 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-person-hiking" %}Alumni
 
-{% include list.html data="members" component="portrait" filter="role == 'alumn'"  %}
+{% include list.html data="members" component="portrait" filter="status == 'alumn'"  %}
