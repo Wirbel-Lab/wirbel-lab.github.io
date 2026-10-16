@@ -1,7 +1,7 @@
 ---
 name: Leche
 image: images/leche.jpg
-role: fluffy-symbionts
+role: furry-commensal
 ---
 
 My name is Leche Ludwig, and I am the prince of this house. Like any real 
